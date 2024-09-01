@@ -1,6 +1,6 @@
 # Guess The Color
 
-![Project Preview](path/to/colorGame.png)
+![Project Preview](colorGame.png)
 
 **Guess The Color** is a simple and fun web-based game where the user is challenged to guess the correct color based on its RGB value. The game is designed to be both educational and entertaining, providing a unique way to learn about RGB color codes.
 
