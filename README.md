@@ -66,10 +66,6 @@ To run this project, you need a modern web browser. No additional software is re
 
 Contributions are welcome! Please fork this repository and submit a pull request if you have any improvements or suggestions.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contact
 
 If you have any questions or feedback, feel free to reach out to me:
